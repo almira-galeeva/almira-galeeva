@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Hello World!
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
 
 <!--
 **almira-galeeva/almira-galeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
